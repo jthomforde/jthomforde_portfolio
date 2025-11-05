@@ -3,7 +3,7 @@ layout: project
 title: RFP Web Scraper
 description: Web scraper that allows aerospace companies to monitor requests for proposals
 technologies: [Java]
-image: /assets/images/radio-machine-cad.jpg
+image: /assets/images/RFP-sc.webp
 ---
 
 The RFP Web Scraper features a user-friendly GUI that performs four key functions to monitor space-related contract opportunities. It continuously collects and displays a dataset of 240–250 active Requests for Proposals (RFPs), scraped from three main sources: NASA JPL, NASA ROSES, and Instant Market  Space Industry.
