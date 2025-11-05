@@ -13,11 +13,11 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : James Thomforde
 description              : James Thomforde - Projects and CV 
-baseurl                  : "fall-2025-portfolio-jthomforde" # Set this to your repo name 
+baseurl                  : "jthomforde_portfolio" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: light # light/default, dark, or aqua
+color_scheme: aqua # light/default, dark, or aqua
 
 sass:
   style: compressed
