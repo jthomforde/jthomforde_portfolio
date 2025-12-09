@@ -110,3 +110,8 @@ A quenched and tempered high-strength low-alloy steel (AISI 4340 QT 409) was sel
 
 The FEM results demonstrate acceptable stress levels, measurable strain at the gauge location, and predictable deflection behavior. The resulting electrical sensitivity provides a clear and reliable calibration pathway for torque measurement.
 
+## Strain Gauge Selection
+
+A uniaxial foil strain gauge was selected to measure axial strain along the handle of the torque wrench. The gauge has an active grid length of approximately **3 mm** and a nominal resistance of **350 Ω**, making it well suited for high-sensitivity measurements on metallic components. Its compact footprint allows for clean placement on the outer surface of the handle at the strain measurement location. The axial orientation of the gauge provides a direct and repeatable relationship between applied torque and measured strain, enabling reliable torque calibration.
+
+
