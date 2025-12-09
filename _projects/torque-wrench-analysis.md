@@ -1,17 +1,18 @@
 ---
 layout: project
 title: Torque Wrench Analysis
-description: Design parameters of a torque wrench and run a FEM analysis
-technologies: [CAD, ANSYS]
+description: Mechanics of Engineering Materials Final Project
+technologies:  [Autodesk Fusion, ANSYS Workbench]
 image: /assets/images/RFP-sc.webp
 ---
 
-The RFP Web Scraper features a user-friendly GUI that performs four key functions to monitor space-related contract opportunities. It continuously collects and displays a dataset of 240–250 active Requests for Proposals (RFPs), scraped from three main sources: NASA JPL, NASA ROSES, and Instant Market  Space Industry.
+As the final project for Mechanics of Engineering Materials, we were asked to design a torque wrench by selecting the material and adjusting the dimensions to meet specified requirements. The material we chose to use is a quenched and tempered high-strength, low-alloy steel, or AISI 4340 QT 409. We chose this material because it is durable and delivers a high enough output to meet the requirements. The relevant information about this material is the Young's modulus, tensile strength, fracture toughness, and fatigue strength. These properties are as follows:
 
-The interface enables users to:
+Young's Mondulus --> E = 30 * 10^6 psi
+Poisson's Ratio --> nu = 0.29 
+Tensile strength --> su = 210 ksi
+Fracture toughness --> KIC = 77 (ksi sqrt(in))
+Fatigue stress for 10^6 cycles --> sfatigue = 95 *10^3
 
-- Check for new RFPs added since the last scrape
-- Filter RFPs by due date, showing only those due within a selected number of weeks
-- Search by keyword, allowing users to quickly locate relevant opportunities within the dataset
+The design rendering is very simple geometry, as shown below.
 
-This tool streamlines the process of tracking open solicitations in the aerospace sector, making it easy to monitor hundreds of RFPs in one place.
