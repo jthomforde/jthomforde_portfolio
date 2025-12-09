@@ -74,14 +74,13 @@ A quenched and tempered high-strength low-alloy steel (AISI 4340 QT 409) was sel
 
 ### Strain in the Gauge Direction
 
-<div style="display: flex; gap: 24px; flex-wrap: wrap; justify-content: center;">
-  <img src="{{ '/assets/images/FEM, Strain Side View.jpg' | relative_url }}"
-       alt="FEM Strain Side View"
-       style="width: 420px; max-width: 100%;">
 
-  <img src="{{ '/assets/images/FEM, Strain Top View.jpg' | relative_url }}"
-       alt="FEM Strain Top View"
-       style="width: 420px; max-width: 100%;">
+<div style="display: flex; justify-content: center;">
+  <figure style="text-align: center;">
+    <img src="{{ '/assets/images/FEM, Strain Top View.jpg' | relative_url }}"
+         alt="FEM Strain Top View"
+         style="width: 480px; max-width: 100%;">
+  </figure>
 </div>
 
 ---
