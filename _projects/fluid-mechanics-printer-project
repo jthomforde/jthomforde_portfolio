@@ -1,18 +1,42 @@
 ---
 layout: project
 title: Fluid Mechanical Dissection of Inkjet Printer
-description: Web scraper that allows aerospace companies to monitor requests for proposals
-technologies: [IMovie]
-image: /assets/images/RFP-sc.webp
+description: Fluid mechanics analysis and dissection of an inkjet printer
+technologies: [iMovie]
+image: "/assets/images/Pinter picture Closed .jpg"
 ---
 
-My final project for MAE 3230: Fluid Mechanics was to perform a fluid mechanical dissection on a machine. My group was assigned an inkjet printer. We worked to take apart the printer and observe the innerworkings of the mechanisms. The printer itself has mainly mechanical processes, but the ink cartridges function using the fluid mechanical systems to dispense the ink. We made a 5 minute video outlining how an inkjet printer works with relevant equations and concepts. In our group of 5 members, we each contributed to the dissection, and my main contributions were in the investigation of capillary action, diagrams of the different nozzle stages, as well working on parts of the script and the final video. The video is linked below.
+My final project for **MAE 3230: Fluid Mechanics** was to perform a fluid mechanical dissection on a machine.  
+My group was assigned an inkjet printer. We took apart the printer and observed the inner workings of its
+mechanisms. While the printer is driven largely by mechanical components, the ink cartridges rely on fluid
+mechanics to dispense the ink through the nozzles.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    src="https://www.youtube.com/embed/nm7v8_wMo4c" 
-    frameborder="0"
-    style="position: absolute; top:0; left: 0; width: 100%; height: 100%;"
-    allowfullscreen>
-  </iframe>
+We created a five-minute video explaining how an inkjet printer works, highlighting key equations and concepts.  
+In our group of five members, I focused on:
+
+- Investigating capillary action inside the cartridge and nozzles  
+- Creating diagrams of the different nozzle stages  
+- Helping write the script and edit the final video
+
+Below is a photo from our presentation and the final project video.
+
+<br>
+
+<div style="max-width: 900px; margin: 0 auto 2rem auto; text-align: center;">
+  <img 
+    src="/assets/images/Printer Disection pointing picture.jpg" 
+    alt="Presenting the inkjet printer fluid mechanical dissection"
+    style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"
+  />
+</div>
+
+<div style="max-width: 900px; margin: 0 auto;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <iframe 
+      src="https://www.youtube.com/embed/nm7v8_wMo4c" 
+      frameborder="0"
+      style="position: absolute; top:0; left: 0; width: 100%; height: 100%;"
+      allowfullscreen>
+    </iframe>
+  </div>
 </div>
