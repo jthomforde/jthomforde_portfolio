@@ -1,0 +1,18 @@
+---
+layout: project
+title: Fluid Mechanical Dissection of Inkjet Printer
+description: Web scraper that allows aerospace companies to monitor requests for proposals
+technologies: [IMovie]
+image: /assets/images/RFP-sc.webp
+---
+
+My final project for MAE 3230: Fluid Mechanics was to perform a fluid mechanical dissection on a machine. My group was assigned an inkjet printer. We worked to take apart the printer and observe the innerworkings of the mechanisms. The printer itself has mainly mechanical processes, but the ink cartridges function using the fluid mechanical systems to dispense the ink. We made a 5 minute video outlining how an inkjet printer works with relevant equations and concepts. In our group of 5 members, we each contributed to the dissection, and my main contributions were in the investigation of capillary action, diagrams of the different nozzle stages, as well working on parts of the script and the final video. The video is linked below.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/nm7v8_wMo4c" 
+    frameborder="0"
+    style="position: absolute; top:0; left: 0; width: 100%; height: 100%;"
+    allowfullscreen>
+  </iframe>
+</div>
