@@ -39,4 +39,4 @@ In our four-person group, all members contributed to the physical teardown and s
 ## Full Report
 
 The complete written analysis and final report can be found  
-[**here**]({{ "assets/CV.pdf" | relative_url }}).
+[**here**]({{ "assets/MAE 3260 Final Group Work - Google Docs.pdf" | relative_url }}).

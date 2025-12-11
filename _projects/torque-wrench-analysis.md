@@ -114,4 +114,9 @@ The FEM results demonstrate acceptable stress levels, measurable strain at the g
 
 A uniaxial foil strain gauge was selected to measure axial strain along the handle of the torque wrench. The gauge has an active grid length of approximately **3 mm** and a nominal resistance of **350 Ω**, making it well suited for high-sensitivity measurements on metallic components. Its compact footprint allows for clean placement on the outer surface of the handle at the strain measurement location. The axial orientation of the gauge provides a direct and repeatable relationship between applied torque and measured strain, enabling reliable torque calibration.
 
+## Full Report
+
+The complete written analysis and final report can be found  
+[**here**]({{ "assets/Materials Final HW - Google Docs.pdf" | relative_url }}).
+
 
