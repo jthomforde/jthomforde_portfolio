@@ -3,7 +3,7 @@ layout: project
 title: Why Does My Roommate’s Cheap Blender Suck?
 description: 3260 Final Project
 technologies: [N/A]
-image: assets/images/radio-machine.jpg
+image: assets/images/Blender Image.jpeg
 ---
 
 ## Project Overview
