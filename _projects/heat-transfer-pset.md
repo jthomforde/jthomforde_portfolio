@@ -8,7 +8,7 @@ image: assets/images/heat_transfer_image.jpeg
 
 ## Project Overview
 
-For this assignment I selected **Homework 3 from MAE 3230: Heat Transfer** because it emphasized how real thermal systems are modeled using energy balances and thermal resistance networks. The assignment covered several important heat transfer scenarios, including deriving the governing equation for a system with volumetric heat generation, analyzing steady state conduction through a composite wall with convection at the boundary, and evaluating the effect of a thermal barrier coating.
+For this assignment I selected **Homework 3 from MAE 3240: Heat Transfer** because it emphasized how real thermal systems are modeled using energy balances and thermal resistance networks. The assignment covered several important heat transfer scenarios, including deriving the governing equation for a system with volumetric heat generation, analyzing steady state conduction through a composite wall with convection at the boundary, and evaluating the effect of a thermal barrier coating.
 
 Across the problems, the focus was not only on solving equations but also on correctly identifying assumptions, boundary conditions, and energy flow terms. The composite wall problem required solving for temperature distributions and unknown material properties, while the TBC problem used a thermal resistance network to determine heat flux and maximum allowable surface temperatures. These problems illustrated how conduction, convection, and material properties interact to determine thermal performance in engineering systems.
 
