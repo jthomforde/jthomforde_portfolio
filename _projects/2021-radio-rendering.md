@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: project
 title: RFP Web Scraper
 description: Web scraper that allows aerospace companies to monitor requests for proposals
@@ -14,4 +14,4 @@ The interface enables users to:
 - Filter RFPs by due date, showing only those due within a selected number of weeks
 - Search by keyword, allowing users to quickly locate relevant opportunities within the dataset
 
-This tool streamlines the process of tracking open solicitations in the aerospace sector, making it easy to monitor hundreds of RFPs in one place.
+This tool streamlines the process of tracking open solicitations in the aerospace sector, making it easy to monitor hundreds of RFPs in one place. -->
