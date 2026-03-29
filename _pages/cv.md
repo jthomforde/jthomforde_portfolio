@@ -11,7 +11,7 @@ permalink: /cv/
 
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "assets/James_Thomforde Resume 2026 - Google Docs.pdf" | relative_url }}) in PDF format.
 
 **Email:** jht224@cornell.edu  
 **Phone:** (607)-280-6225  
@@ -21,7 +21,7 @@ permalink: /cv/
 ---
 
 ### Objective
-Mechanical Engineering student at Cornell University exploring the intersection of engineering, automation, and strategy. Experienced in aerospace systems, data-driven engineering workflows, and technical business tooling. Seeking opportunities to build real systems at the frontier of engineering and technology.
+Mechanical Engineering student at Cornell University exploring the intersection of engineering, software, and strategy. Experienced in aerospace systems, business workflows, and mechanical design. Seeking opportunities to build real systems at the frontier of engineering and technology.
 
 ---
 
@@ -29,7 +29,7 @@ Mechanical Engineering student at Cornell University exploring the intersection 
 **Cornell University — College of Engineering**  
 *Bachelor of Science in Mechanical Engineering*  
 **GPA:** 3.2/4.0 — *Expected May 2027*  
-Relevant Coursework: Systems Dynamics, Fluid Mechanics, Mechanical Design, Object-Oriented Programming
+Relevant Coursework: Systems Dynamics, Fluid Mechanics, Mechanical Design, Object-Oriented Programming, Mechatronics
 
 ---
 
@@ -62,7 +62,7 @@ Ithaca, NY — *June 2024 – March 2025*
 
 ---
 
-### Leadership & Projects
+### Projects & Leadership
 
 **Organic Robotics Lab — Research Assistant**  
 New York — *Jan 2026 – Present*  
@@ -81,8 +81,8 @@ Cornell University — *Jan 2025 – Present*
 ---
 
 ### Skills
-**Software:** Fusion 360, Inventor, SolidWorks, Multisim, Voltaiq, Linux, Git  
-**Programming:** Python, Java  
+**Software:** Fusion 360, Inventor, SolidWorks, Multisim, Voltaiq, Linux, Git, ANSYS
+**Programming:** Python, Java, C++
 **Tools & Fabrication:** Welding, CNC machining, general machining, laser cutting, 3D printing  
 **Other:** Automation frameworks, tmux, hardware debugging, experimental data analysis
 
