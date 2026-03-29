@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: project
 title: Smart Ski Project
 description: High School Capstone (2022-23)
@@ -14,4 +14,4 @@ Led the design and development of a skier safety system to increase visibility o
 ## Full Assignment
 
 The complete Pitch Deck can be found here:  
-[**Smart Ski Pitch Deck**]({{ "assets/Smart Ski Overview .pdf" | relative_url }})
+[**Smart Ski Pitch Deck**]({{ "assets/Smart Ski Overview .pdf" | relative_url }}) -->

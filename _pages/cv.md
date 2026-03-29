@@ -64,10 +64,10 @@ Ithaca, NY — *June 2024 – March 2025*
 
 ### Leadership & Projects
 
-**Ski Safety Alert System — Project Lead**  
-New York — *Aug 2022 – June 2023*  
-- Designed autonomous skier safety system using Raspberry Pi + custom electronics  
-- Led hardware development and testing
+**Organic Robotics Lab — Research Assistant**  
+New York — *Jan 2026 – Present*  
+- Developed actuation system for the tendon system of a thunniform soft swimming robot for speed and continous motor drive. 
+- Redesigning the soft tail for the swimmer. 
 
 **Delta Upsilon, Cornell University — Recruitment Chair**  
 Ithaca, NY — *Mar 2024 – Present*  
