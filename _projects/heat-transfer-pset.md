@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: project
 title: Heat Transfer HW 3 – Thermal Modeling and Resistance Networks
 description: MAE 3230 Portfolio Assignment
@@ -23,4 +23,4 @@ This homework was particularly valuable because it reinforced how engineers simp
 ## Full Assignment
 
 The complete homework PDF can be found here:  
-[**Heat Transfer Homework 3**]({{ "assets/Heat transfer hw 3.pdf" | relative_url }})
+[**Heat Transfer Homework 3**]({{ "assets/Heat transfer hw 3.pdf" | relative_url }}) -->
